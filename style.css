@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+
+body{
+    font-family: 'Chelsea Market', cursive;
+}
+
 .container{
     width:100%;
 }
@@ -84,4 +90,8 @@
 
 .mt-10{
     margin-top: 10rem;
+}
+
+.text-blue{
+    color: #001f3f;
 }
